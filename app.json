@@ -32,7 +32,39 @@
       "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
-    "AUTH_USERS": {
+    "DATABASE_NAME": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": ""
+    },
+    "DATABASE_URI": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": ""
+    },
+    "SESSION_NAME": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": ""
+    },
+    "AD_IMG": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": ""
+    },
+    "AD_CAP": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": ""
+    },
+    "AD_BTNTA": {
+      "description": "allow only pre-defined users to use this bot",
+      "value": "7351948 466337795"
+    },
+    "AD_BTNTAURL": {
+      "description": "allow only pre-defined users to use this bot",
+      "value": "7351948 466337795"
+    },
+    "AD_BTNTB": {
+      "description": "allow only pre-defined users to use this bot",
+      "value": "7351948 466337795"
+    },
+    "AD_BTNTBURL": {
       "description": "allow only pre-defined users to use this bot",
       "value": "7351948 466337795"
     },
